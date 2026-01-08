@@ -22,7 +22,7 @@ collections_path=./collections
 become=true
 become_ask_pass=false
 become_user=root
-become_method=true
+become_method=sudo
 
 EOF
 
